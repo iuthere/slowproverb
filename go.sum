@@ -1,0 +1,6 @@
+github.com/jboursiquot/go-proverbs v0.0.2 h1:LlJpbPfW6+HThOwZR+VsJwpRQL6xHOLsWjXJSZV2N40=
+github.com/jboursiquot/go-proverbs v0.0.2/go.mod h1:Fkb7X/GdAApOZjs+v4eREbG/UnzgHiLOLq7RbkKUf3U=
+github.com/mitchellh/go-wordwrap v1.0.1 h1:TLuKupo69TCn6TQSyGxwI1EblZZEsQ0vMlAFQflz0v0=
+github.com/mitchellh/go-wordwrap v1.0.1/go.mod h1:R62XHJLzvMFRBbcrT7m7WgmE1eOyTSsCt+hzestvNj0=
+github.com/zzwx/interval v0.0.6 h1:5aAF2m4YhtB7BSmUlFyY2dEIFIi4Y9U5GPOejMQrZoQ=
+github.com/zzwx/interval v0.0.6/go.mod h1:u1Od1keaCe0tyNGQJpXAoio83qAMePpq8GJH7WORpl4=
