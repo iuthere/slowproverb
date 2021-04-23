@@ -22,8 +22,8 @@ func main() {
 	width := flag.Uint("width", 20, "text width")
 	link := flag.Bool("link", true, "include source web link")
 	flag.Parse()
-	*min = interval.ClampUint(0, math.MaxUint32, *min)
-	*max = interval.ClampUint(*min, math.MaxUint32, *max)
+	*min = interval.ClampUint(0, math.MaxUint32-1, *min)
+	*max = interval.ClampUint(*min+1, math.MaxUint32, *max)
 	*width = interval.ClampUint(1, math.MaxUint32, *width)
 	rand.Seed(time.Now().UnixNano())
 	var w io.Writer
