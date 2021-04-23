@@ -6,7 +6,7 @@ Additionally, `slowproverb` randomly chooses whether to use `Stdout` or `Stderr`
 
 ## Install
 
-`$ go install github.com/iuthere/slowproverb`
+`$ go install github.com/iuthere/slowproverb@latest`
 
 ## Run
 
